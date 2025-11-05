@@ -50,7 +50,7 @@ pip install coverforest
 Or install from source:
 
 ```bash
-git clone https://github.com/donlapark/coverforest.git
+git clone https://github.com/donlap/coverforest.git
 cd coverforest
 pip install .
 ```
@@ -100,7 +100,7 @@ See the documentation for more details and examples.
 
 ## 📜 License
 
-[BSD-3-Clause license](https://github.com/donlapark/coverforest/blob/main/LICENSE)
+[BSD-3-Clause license](https://github.com/donlap/coverforest/blob/main/LICENSE)
 
 ## 📝 Citation
 
